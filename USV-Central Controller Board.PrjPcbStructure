@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Communication.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=External Connections.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Master.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Sensors.SchDoc|SheetNumber=3
