@@ -1,0 +1,1 @@
+# USV-Central-Controller-Board Repo for hardware development of UVEECs Central Controller Board. The UVEEC Controller is designed to manage communication with the Raspberry Pi and control/communicate to all the electronics on the USV. It is currently being designed by the UVEEC Hardware team led by Miguel Manguerra.
