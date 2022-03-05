@@ -117,23 +117,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XOMOPDCM
 
 [Document5]
-DocumentPath=Sensors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RMKXWWUJ
-
-[Document6]
 DocumentPath=Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNCLAMWT
 
-[Document7]
+[Document6]
 DocumentPath=Output Connections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RROMXJWF
 
-[Document8]
+[Document7]
 DocumentPath=Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYLYGYSJ
 
-[Document9]
+[Document8]
 DocumentPath=Input Connections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
