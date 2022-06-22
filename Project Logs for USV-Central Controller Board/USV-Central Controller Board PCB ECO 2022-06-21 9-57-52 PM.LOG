@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=                  NewDesignator=J3
+Added Pin To Net: NetName=NetMD1_26 Pin=P5-3
+Added Member To Class: ClassName=U_Output Connections Member=Component J3 0436500215
