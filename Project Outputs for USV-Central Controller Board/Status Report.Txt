@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [USV-Central Controller Board.PrjPcb]
+   Generated File[USV-Central Controller Board-RoundHoles.TXT]
+   Generated File[USV-Central Controller Board-SlotHoles.TXT]
+   Generated File[USV-Central Controller Board.LDP]
+   Generated File[USV-Central Controller Board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:53:25 PM On 2022-07-14

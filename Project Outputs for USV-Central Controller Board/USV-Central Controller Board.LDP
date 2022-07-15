@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Mac\Home\Documents\GitHub\USV-Central-Controller-Board-PCB\USV-Central Controller Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usv-central controller board-roundholes.txt|DrillLayers=gtl,g1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usv-central controller board-slotholes.txt|DrillLayers=gtl,g1,gbl

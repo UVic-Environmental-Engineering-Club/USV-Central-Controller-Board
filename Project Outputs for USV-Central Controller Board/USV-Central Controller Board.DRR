@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USV-Central Controller Board.PcbDoc   2022-07-14  7:53:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USV-Central Controller Board-RoundHoles.TXT
+ASCII SlotHoles File : USV-Central Controller Board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             97        PTH        36.70inch (932.06mm)
+T2      20mil (0.5mm)                                             Round             1103      PTH        169.61inch (4308.08mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.58inch (14.64mm)
+T4      35mil (0.9mm)                                             Round             15        PTH        5.58inch (141.81mm)
+T5      39mil (1mm)                                               Round             24        PTH        7.14inch (181.45mm)
+T6      40mil (1.02mm)                                            Round             24        PTH        11.75inch (298.58mm)
+T7      50mil (1.27mm)                                            Round             20        PTH        6.57inch (166.92mm)
+T8      95mil (2.41mm)                                            Round             8         PTH        16.62inch (422.19mm)
+T9      104mil (2.65mm)                                           Round             6         PTH        18.48inch (469.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1299
+
+Total Processing Time (hh:mm:ss) : 00:00:00
