@@ -2,18 +2,43 @@
 FileName = USV-Central Controller Board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : USV-Central Controller Board.GBL
+Generating : Top Pad Master
+      File : USV-Central Controller Board.GPT
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D82
-    D83
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
     D84
     D85
     D86
@@ -21,10 +46,6 @@ Used DCodes :
     D88
     D89
     D90
-    D91
-    D92
-    D93
-    D94
 *************************************************************
 
 *************************************************************
@@ -141,46 +162,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : USV-Central Controller Board.GTL
+Generating : Bottom Pad Master
+      File : USV-Central Controller Board.GPB
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D82
-    D83
     D84
     D85
     D86
@@ -188,9 +178,6 @@ Used DCodes :
     D88
     D89
     D90
-    D91
-    D92
-    D93
 *************************************************************
 
 *************************************************************
@@ -278,6 +265,83 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Layer
+      File : USV-Central Controller Board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : USV-Central Controller Board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : USV-Central Controller Board.GKO
 
@@ -298,6 +362,6 @@ Generating : Mechanical 1
 
 Used DCodes :
     D13
-    D93
+    D94
 *************************************************************
 
