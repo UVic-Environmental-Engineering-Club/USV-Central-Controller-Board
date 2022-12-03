@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=+3V3 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=5 VOLT OUTPUT Pin=C31-2
+Removed Pin From Net: NetName=5 VOLT OUTPUT Pin=R9-1
+Removed Pin From Net: NetName=+5V Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=+3V3 Pin=U3-8
+Removed Member From Class: ClassName=U_Microcontroller Member=C13
+Removed Member From Class: ClassName=U_Microcontroller Member=C30
+Removed Member From Class: ClassName=U_Microcontroller Member=C31
+Removed Member From Class: ClassName=U_Microcontroller Member=R9
+Removed Member From Class: ClassName=U_Microcontroller Member=R12
+Removed Member From Class: ClassName=U_Microcontroller Member=R13
+Removed Member From Class: ClassName=U_Microcontroller Member=U3
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:CNC TECH 1002-021-01000
+Added Member To Class: ClassName=U_Microcontroller Member=Component C26 4.7µF
