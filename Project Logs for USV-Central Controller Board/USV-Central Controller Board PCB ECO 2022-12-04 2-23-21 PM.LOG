@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator= NewDesignator=J5
+Added Pin To Net: NetName=TX0 Pin=J7-2
+Added Pin To Net: NetName=RX0 Pin=J7-3
+Added Pin To Net: NetName=RX0 Pin=MD1-34
+Added Pin To Net: NetName=TX0 Pin=MD1-35
+Change Net Name : Old Net Name=Net_2 New Net Name=NetJ5_2
+Added Member To Class: ClassName=U_Communication Member=Component J1 1002-021-01000
+Added Member To Class: ClassName=U_Output Connections Member=Component J2 0436500215
+Added Member To Class: ClassName=U_Output Connections Member=Component J3 0436500215
+Added Member To Class: ClassName=U_Output Connections Member=Component J4 0436500215
+Added Member To Class: ClassName=U_Output Connections Member=Component J5 0436500215
+Added Member To Class: ClassName=U_Output Connections Member=Component MH1 Mounting Hole M2.5x6mm
+Added Member To Class: ClassName=U_Output Connections Member=Component MH2 Mounting Hole M2.5x6mm
+Added Member To Class: ClassName=U_Output Connections Member=Component MH3 Mounting Hole M2.5x6mm
+Added Member To Class: ClassName=U_Output Connections Member=Component MH4 Mounting Hole M2.5x6mm
+Added Member To Class: ClassName=U_Output Connections Member=Component MH5 Mounting Hole M2.5x6mm
+Added Member To Class: ClassName=U_Output Connections Member=Component MH6 Mounting Hole M2.5x6mm

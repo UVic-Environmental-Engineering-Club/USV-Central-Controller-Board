@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_Microcontroller Member=TP1
+Removed Member From Class: ClassName=U_Microcontroller Member=TP2
+Added Member To Class: ClassName=U_Communication Member=Component D9 ESD321DPYR
+Added Member To Class: ClassName=U_Communication Member=Component J1 10118193-0001LF
