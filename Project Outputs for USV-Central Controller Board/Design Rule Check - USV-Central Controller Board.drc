@@ -1,11 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\evanp\Documents\GitHub\USV-Central-Controller-Board-PCB\USV-Central Controller Board.PcbDoc
-Date     : 2022-12-05
-Time     : 8:34:35 PM
+Date     : 2022-12-08
+Time     : 10:30:41 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.236mm < 0.254mm) Between Pad R10-2(22.718mm,88.773mm) on Top Layer And Region (0 hole(s)) Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -16,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.2mm) (Max=0.355mm) (Preferred=0.355mm) (All)
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.762mm) (Preferred=0.355mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.245mm) (Max=0.355mm) (Preferred=0.355mm) (All)
@@ -103,6 +102,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 57
+Violations Detected : 56
 Waived Violations : 0
 Time Elapsed        : 00:00:02
