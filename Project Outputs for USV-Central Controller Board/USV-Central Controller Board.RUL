@@ -1,5 +1,5 @@
-DRC Rules Export File for PCB: C:\Github\USV-Central-Controller-Board-PCB\USV-Central Controller Board.PcbDoc
-RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=9.65
+DRC Rules Export File for PCB: C:\Users\evanp\Documents\GitHub\USV-Central-Controller-Board-PCB\USV-Central Controller Board.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=7.87
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.65
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
